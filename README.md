@@ -1,7 +1,7 @@
-# Agro3000
-Project development to show at the event "PROJETE" in 2016. 
+# App IoT Agro3000
+## Project development to show at the event "PROJETE" in 2016. 
 
-This project controls two pinouts through commands received from a smartphone application called "Agro3000" and shows on this application soil moisture data read by the sensor module.
+### This project controls two pinouts through commands received from a smartphone application called "Agro3000" and shows on this application soil moisture data read by the sensor module.
 
 ## Arduino Project
 Download file "programa__o_final_2016.ino" and build in your Arduino board. In this code, there are comments to understand more about the logic. 
